@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/regular-expression-matching">Regular Expression Matching</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>Given an input string <code>s</code>&nbsp;and a pattern <code>p</code>, implement regular expression matching with support for <code>&#39;.&#39;</code> and <code>&#39;*&#39;</code> where:</p>
+# 10. Regular Expression Matching
+
+🔴 **Hard** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/regular-expression-matching/)
+
+**Topics:** String, Dynamic Programming, Recursion
+
+---
+
+<p>Given an input string <code>s</code>&nbsp;and a pattern <code>p</code>, implement regular expression matching with support for <code>&#39;.&#39;</code> and <code>&#39;*&#39;</code> where:</p>
 
 <ul>
 	<li><code>&#39;.&#39;</code> Matches any single character.​​​​</li>
@@ -42,3 +50,8 @@
 	<li><code>p</code> contains only lowercase English letters, <code>&#39;.&#39;</code>, and&nbsp;<code>&#39;*&#39;</code>.</li>
 	<li>It is guaranteed for each appearance of the character <code>&#39;*&#39;</code>, there will be a previous valid character to match.</li>
 </ul>
+
+
+---
+
+**My Solution:** [10-Regular-Expression-Matching.java](./10-Regular-Expression-Matching.java)
