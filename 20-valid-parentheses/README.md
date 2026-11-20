@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/valid-parentheses">Valid Parentheses</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a string <code>s</code> containing just the characters <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;[&#39;</code> and <code>&#39;]&#39;</code>, determine if the input string is valid.</p>
+# 20. Valid Parentheses
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/valid-parentheses/)
+
+**Topics:** String, Stack, Bracket Sequences
+
+---
+
+<p>Given a string <code>s</code> containing just the characters <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;[&#39;</code> and <code>&#39;]&#39;</code>, determine if the input string is valid.</p>
 
 <p>An input string is valid if:</p>
 
@@ -56,3 +64,8 @@
 	<li><code>1 &lt;= s.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>s</code> consists of parentheses only <code>&#39;()[]{}&#39;</code>.</li>
 </ul>
+
+
+---
+
+**My Solution:** [20-Valid-Parentheses.java](./20-Valid-Parentheses.java)
